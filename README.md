@@ -1,4 +1,8 @@
 # Linux-NetSpeed
-```shell
-wget -N --no-check-certificate https://raw.githubusercontent.com/KagamigawaMeguri/Linux-NetSpeed/master/tcp.sh && chmod +x tcp.sh && ./tcp.sh
 ```
+见
+https://github.com/ylx2016/Linux-NetSpeed/releases
+
+手动下载安装BBR内核见
+https://github.com/ylx2016/kernel/releases
+
